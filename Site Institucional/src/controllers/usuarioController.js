@@ -125,6 +125,7 @@ function autenticar(req, res) {
     }
 }
 
+
 module.exports = {
     cadastrar, cadastrarAprovado, limpar, autenticar
 }
